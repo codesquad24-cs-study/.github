@@ -1,12 +1,11 @@
-## Hi there 👋
+# 🍀 2024 CodeSquad CS 스터디
 
-<!--
+</br></br>
 
-**Here are some ideas to get you started:**
+## :computer: 팀원
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+| <img src="https://avatars.githubusercontent.com/u/85686722?v=4"> | <img src="https://avatars.githubusercontent.com/u/87180146?v=4" width=440> | <img src="https://avatars.githubusercontent.com/u/103445254?v=4"> | <img src="https://avatars.githubusercontent.com/u/83386112?v=4"> |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|         [세나](https://github.com/soyesenna)         |           [소프](https://github.com/Miensoap)            |            [짜왕](https://github.com/zzawang)            |             [제이든](https://github.com/hiidy)             |
+
+</br></br>
